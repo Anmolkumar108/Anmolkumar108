@@ -1,3 +1,7 @@
+# 💫 Hi 👋, I'm Anmol Kumar
+**Aspiring Software Engineer | BCA Student  || From : Lakhisarai Bihar India**
+
+
 # 💫 About Me:
 🔭 I’m currently working on: Va Cart (Smart Canteen E-commerce Project) and Logic Building in C.<br>​👯 I’m looking to collaborate on: Open source Python projects or AI-based personal assistants.<br>​🤝 I’m looking for help with: Advanced Data Structures and Algorithms (DSA).<br>​🌱 I’m currently learning: Python<br>​💬 Ask me about: Python, C programming, or how to build a voice assistant.<br>
 
