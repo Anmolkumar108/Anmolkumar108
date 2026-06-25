@@ -55,7 +55,7 @@
 
 ---
 
-## 🍔 AI Calculator Desktop desktop App
+##  AI Calculator Desktop desktop App
 
 🔹A modern Python GUI Calculator App built using CustomTkinter.
 
