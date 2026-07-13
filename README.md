@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Anmol Kumar
+# 💫 Hi 👋, I'm Anmol Singh
 **Aspiring Software Engineer & Ethical Hacker | Passionate BCA Student | Building Secure AI Applications, Python Automation Tools & Modern Web Projects | Deep Diving into Cybersecurity & Coding.**
 
 
