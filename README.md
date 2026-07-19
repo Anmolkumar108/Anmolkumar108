@@ -3,20 +3,20 @@
 <h1 align="center">Hi 👋, I'm Anmol Kumar</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | AI Engineer |  Passionate Ethical Hacker
+Aspiring Software Engineer | AI Engineer | Passionate Ethical Hacker
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Ethical Hacker;Passionate+Ethical+Hacker;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+Engineer;Passionate+Ethical+Hacker;Always+Learning+Always+Building" />
 </p>
 
 <p align="center">
-  <a href="https://https://github.com/Anmolkumar108">
-    <img src="https://img.shields.io/github/followers/Anmolkumar108?label=Followers&style=social" />
+  <a href="https://github.com/Anmolkumar108">
+    <img src="https://img.shields.io/github/followers/Anmolkumar108?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 
-  <a href="https:https://github.com/Anmolkumar108">
-    <img src="https://img.shields.io/github/stars/Anmolkumar108?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  <a href="https://github.com/Anmolkumar108?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Anmolkumar108?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
   </a>
 </p>
 
