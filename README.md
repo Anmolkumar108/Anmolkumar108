@@ -23,8 +23,15 @@ Aspiring Software Engineer | AI Engineer | Passionate Ethical Hacker
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on: Va Cart (Smart Canteen E-commerce Project) and Logic Building in C.<br>​👯 I’m looking to collaborate on: Open source Python projects or AI-based personal assistants.<br>​🤝 I’m looking for help with: Advanced Data Structures and Algorithms (DSA).<br>​🌱 I’m currently learning: Python<br>​💬 Ask me about: Python, C programming, or how to build a voice assistant.<br>
 
+- 💻 Passionate  Bachelor of Computer Applications Student
+- 🎓 BCA  (2025–2028)
+- 📍 Bihar, India
+- 💻 Learning Python & Software Development
+- 🔐 Exploring Ethical Hacking & Cybersecurity
+- 🌱 Building projects and improving every day
+- 🤝 Open to Open Source collaboration
+- 
 # 🎓 Education
 
 ## 🎓 BCA (Bachelor of Computer Applications )
