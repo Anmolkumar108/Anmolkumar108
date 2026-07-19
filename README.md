@@ -31,7 +31,7 @@ Aspiring Software Engineer | AI Engineer | Passionate Ethical Hacker
 - 🔐 Exploring Ethical Hacking & Cybersecurity
 - 🌱 Building projects and improving every day
 - 🤝 Open to Open Source collaboration
-- 
+
 # 🎓 Education
 
 ## 🎓 BCA (Bachelor of Computer Applications )
@@ -60,7 +60,8 @@ Aspiring Software Engineer | AI Engineer | Passionate Ethical Hacker
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anmol_singh_kashyap_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anmol-singh-361b90343/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anmol Singh kashyap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akanmolsingh8@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anmol_singh_kashyap_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anmol-singh-361b90343/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akanmolsingh8@gmail.com) 
+[![Portfolio](https://anmolkumar108.github.io/Anmol-Portfolio/)]
 
 <!-- Snake Game Repo View -->
 
