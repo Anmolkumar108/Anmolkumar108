@@ -1,6 +1,26 @@
-# 💫 Hi 👋, I'm Anmol Singh
-**Aspiring Software Engineer & Ethical Hacker | Passionate BCA Student | Building Secure AI Applications, Python Automation Tools & Modern Web Projects | Deep Diving into Cybersecurity & Coding.**
+<img width="2000" height="1125" alt="banner" src="https://github.com/user-attachments/assets/857ef00c-642f-4e05-b4b7-7e04300c2103" />
 
+<h1 align="center">Hi 👋, I'm Anmol Kumar</h1>
+
+<h3 align="center">
+Aspiring Software Engineer | AI Engineer |  Passionate Ethical Hacker
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Ethical Hacker;Passionate+Ethical+Hacker;Always+Learning+Always+Building" />
+</p>
+
+<p align="center">
+  <a href="https://https://github.com/Anmolkumar108">
+    <img src="https://img.shields.io/github/followers/https:/Anmolkumar108?label=Followers&style=social" />
+  </a>
+
+  <a href="https:https://github.com/Anmolkumar108">
+    <img src="https://img.shields.io/github/stars/Anmolkumar108?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  </a>
+</p>
+
+---
 
 # 💫 About Me:
 🔭 I’m currently working on: Va Cart (Smart Canteen E-commerce Project) and Logic Building in C.<br>​👯 I’m looking to collaborate on: Open source Python projects or AI-based personal assistants.<br>​🤝 I’m looking for help with: Advanced Data Structures and Algorithms (DSA).<br>​🌱 I’m currently learning: Python<br>​💬 Ask me about: Python, C programming, or how to build a voice assistant.<br>
