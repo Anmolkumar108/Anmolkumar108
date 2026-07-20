@@ -22,6 +22,14 @@ Aspiring Software Engineer | AI Engineer | Passionate Ethical Hacker
 
 ---
 
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anmol_singh_kashyap_01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-singh-361b90343/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akanmolsingh8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://anmolkumar108.github.io/Portfolio/)
+
+
 # 💫 About Me:
 
 - 💻 Passionate  Bachelor of Computer Applications Student
@@ -76,13 +84,18 @@ Aspiring Software Engineer | AI Engineer | Passionate Ethical Hacker
 
 ## ⚙️ Frameworks & Libraries
 
+
+
 ---
+
+
 
 ## 🗄️ Databases
 
 
 
 ---
+
 
 ## 🧰 Tools
 
@@ -97,14 +110,6 @@ Aspiring Software Engineer | AI Engineer | Passionate Ethical Hacker
 </p>
 
 ---
-
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anmol_singh_kashyap_01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-singh-361b90343/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akanmolsingh8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://anmolkumar108.github.io/Portfolio/)
 
 <!-- Snake Game Repo View -->
 
