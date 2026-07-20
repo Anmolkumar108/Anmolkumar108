@@ -58,6 +58,46 @@ Aspiring Software Engineer | AI Engineer | Passionate Ethical Hacker
 
 ---
 
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</p>
+
+---
+
+## ⚙️ Frameworks & Libraries
+
+---
+
+## 🗄️ Databases
+
+
+
+---
+
+## 🧰 Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</p>
+
+---
+
 
 ## 🌐 Socials
 
