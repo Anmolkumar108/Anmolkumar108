@@ -70,6 +70,8 @@ Aspiring Software Engineer | AI Engineer | Passionate Ethical Hacker
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
+<img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=HTML&logoColor=white" />
+
 </p>
 
 ---
