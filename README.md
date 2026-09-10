@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Kumar</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | AI Engineer | Passionate Ethical Hacker
+Aspiring Software Engineer | AI Engineer
 </h3>
 
 <p align="center">
@@ -29,8 +29,8 @@ Aspiring Software Engineer | AI Engineer | Passionate Ethical Hacker
 - 💻 Passionate  Bachelor of Computer Applications Student
 - 🎓 BCA  (2025–2028)
 - 📍 Bihar, India
+- 🌐 Aspiring Full Stack Developer
 - 💻 Learning Python & Software Development
-- 🔐 Exploring Ethical Hacking & Cybersecurity
 - 🌱 Building projects and improving every day
 - 🤝 Open to Open Source collaboration
 
