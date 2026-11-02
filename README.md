@@ -72,6 +72,8 @@ Aspiring Software Engineer | AI Engineer
 
 <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=HTML&logoColor=white" />
 
+<img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=HTML&logoColor=white" />
+
 </p>
 
 ---
